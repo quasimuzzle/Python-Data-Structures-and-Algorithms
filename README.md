@@ -10,7 +10,7 @@
     * Merge sort
     * Shell sort
     * Selection sort
-3) Searching algorithms
+3) Searching Algorithms
     * Linear search
     * Binary search
     * Interpolation search
